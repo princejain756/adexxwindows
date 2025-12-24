@@ -1,0 +1,140 @@
+[
+  {
+    "name": "ETERNIA DURASLIM CASEMENT",
+    "description": "A premium aluminium casement door and window system designed for superior insulation, durability, and aesthetics.",
+    "features": [
+      "Superior Insulation – Advanced sealing technology ensures excellent thermal and acoustic performance.",
+      "Durable Construction – Made with high-quality aluminium and robust hardware for long-lasting performance.",
+      "Elegant Aesthetics – Sleek design with multiple handle options for a refined look."
+    ],
+    "images": [
+      "eternia-duraslim-casement-1.webp",
+      "eternia-duraslim-casement-2.webp",
+      "eternia-duraslim-casement-3.webp",
+      "eternia-duraslim-casement-4.webp",
+      "eternia-duraslim-casement-5.webp",
+      "eternia-duraslim-casement-6.webp"
+    ]
+  },
+  {
+    "name": "ETERNIA DURASLIM CASEMENT TILT & TURN",
+    "description": "Seamless Operation – Our tilt and turn windows offer versatile functionality, allowing you to tilt them for secure ventilation or fully turn them for easy cleaning and maximum airflow. Energy-Efficient Design – With superior sealing and insulation, our tilt and turn windows help enhance energy efficiency, keeping your home comfortable and reducing energy costs.",
+    "features": [
+      "Seamless Operation – Our tilt and turn windows offer versatile functionality, allowing you to tilt them for secure ventilation or fully turn them for easy cleaning and maximum airflow.",
+      "Energy-Efficient Design – With superior sealing and insulation, our tilt and turn windows help enhance energy efficiency, keeping your home comfortable and reducing energy costs."
+    ],
+    "images": [
+      "eternia-duraslim-casement-tilt-and-turn-1.png"
+    ]
+  },
+  {
+    "name": "ETERNIA DURASLIM EDGE LIFT & SLIDE",
+    "description": "Lift and Slide aluminium doors are designed and engineered for effortless sliding, maximum safety, and superior noise insulation.",
+    "features": [
+      "Enhanced Security – Lockable at any point along the track for added safety.",
+      "Seamless Operation – Heavy-duty rollers ensure smooth sliding.",
+      "Peaceful Indoors – Exceptional noise insulation for a quieter space."
+    ],
+    "images": [
+      "eternia-duraslim-edge-lift-and-slide-1.webp",
+      "eternia-duraslim-edge-lift-and-slide-2.png"
+    ]
+  },
+  {
+    "name": "ETERNIA DURASLIM EDGE MINIMAL",
+    "description": "Slimline aluminium doors designed with ultra-slim interlocks and flush profiles for wider, uninterrupted views and a touch of luxury.",
+    "features": [
+      "Flawless Aesthetics – Seamless design, flush on all four sides.",
+      "Ultra-Slim Interlock – Sleek 20mm thickness for a refined look, with an option to customize for enhanced aesthetics.",
+      "Expansive Views – Wider openings with minimal sightlines.",
+      "Smooth, Hassle-Free Gliding – High-quality rollers ensure effortless sliding, while the carriage design of rollers allows for easy maintenance."
+    ],
+    "images": [
+      "eternia-duraslim-edge-minimal-1.webp",
+      "eternia-duraslim-edge-minimal-2.webp",
+      "eternia-duraslim-edge-minimal-3.webp"
+    ]
+  },
+  {
+    "name": "ETERNIA DURASLIM EDGE SLIDE & FOLD",
+    "description": "A Slide and Fold aluminium door, designed and engineered to provide maximum opening.",
+    "features": [
+      "Unobstructed Openings – Designed for a complete and expansive opening.",
+      "Seamless Integration – Flushed bottom track design ensures a smooth, uninterrupted floor transition.",
+      "Effortless Operation – Heavy-duty hinges enable smooth and reliable folding."
+    ],
+    "images": [
+      "eternia-duraslim-edge-slide-and-fold-1.webp",
+      "eternia-duraslim-edge-slide-and-fold-2.png"
+    ]
+  },
+  {
+    "name": "DURASLIM SLIDING WINDOWS & DOORS",
+    "description": "A modern aluminium sliding door and window system designed for effortless operation, contemporary aesthetics, and flexible configurations.",
+    "features": [
+      "Effortless Sliding – Smooth and reliable operation for everyday convenience.",
+      "Versatile Options – Available in 2-track and 3-track variants for different space requirements."
+    ],
+    "images": [
+      "duraslim-sliding-windows-and-doors-1.webp",
+      "duraslim-sliding-windows-and-doors-2.webp",
+      "duraslim-sliding-windows-and-doors-3.webp",
+      "duraslim-sliding-windows-and-doors-4.webp",
+      "duraslim-sliding-windows-and-doors-5.webp",
+      "duraslim-sliding-windows-and-doors-6.webp"
+    ]
+  },
+  {
+    "name": "ETERNIA ESSENTIALS CASEMENT",
+    "description": "A robust and easy-to-maintain aluminium casement door and window system designed for durability, aesthetics, and flexibility.",
+    "features": [
+      "Low-Maintenance Durability – Compact design ensures lasting performance with minimal upkeep.",
+      "Refined Aesthetics – 45-degree joining on the frame and shutter enhances the visual appeal.",
+      "Versatile Functionality – Available with top-hung options for added flexibility."
+    ],
+    "images": [
+      "eternia-essentials-casement-1.webp",
+      "eternia-essentials-casement-2.webp",
+      "eternia-essentials-casement-3.webp"
+    ]
+  },
+  {
+    "name": "ETERNIA ESSENTIALS proSLIDER",
+    "description": "A high-performance aluminium sliding door and window system designed for enhanced security, long-lasting durability, and flexible configurations.",
+    "features": [
+      "Advanced Security – Multipoint locking system ensures enhanced protection.",
+      "Long-Lasting Performance – Durable anodized aluminium track inserts provide smooth and reliable operation.",
+      "Versatile Configurations – Available in 2-track, 3-track, and customizable combinations of up to 8 tracks."
+    ],
+    "images": [
+      "eternia-essentials-proslider-1.webp",
+      "eternia-essentials-proslider-2.png"
+    ]
+  },
+  {
+    "name": "ETERNIA ESSENTIALS SLIDER",
+    "description": "A modern aluminium sliding door and window system designed for effortless operation, contemporary aesthetics, and flexible configurations.",
+    "features": [
+      "Effortless Sliding – Smooth and reliable operation for everyday convenience.",
+      "Versatile Options – Available in 2-track and 3-track variants for different space requirements."
+    ],
+    "images": [
+      "eternia-essentials-slider-1.webp",
+      "eternia-essentials-slider-2.webp",
+      "eternia-essentials-slider-3.webp",
+      "eternia-essentials-slider-4.webp"
+    ]
+  },
+  {
+    "name": "ETERNIA ESSENTIALS PLUS SLIDER",
+    "description": "An advanced aluminium sliding door and window system engineered for superior performance, sleek aesthetics, and customizable configurations – designed to elevate modern living.",
+    "features": [
+      "Effortless Sliding – Smooth and reliable operation for everyday convenience.",
+      "Sleek Design – Slimmer and sleeker profile compared to conventional sliders for a modern look."
+    ],
+    "images": [
+      "eternia-essentials-plus-slider-1.webp",
+      "eternia-essentials-plus-slider-2.webp"
+    ]
+  }
+]
